@@ -1,0 +1,9 @@
+.navbar-nav > li > a[href] {
+	color:white;
+}
+a[href].navbar-brand {
+	color:white;
+}
+.clearfix {
+	clear: both;
+}
